@@ -31,6 +31,8 @@ A special tribute mention to my friend Meowgi from the Doom Community for helpin
 
 Special mention to Pacifist Paradise community for being a home to me in the internet.
 
+Special mention to my friends Gamerkevmo and Edymar and my group "The Midnight Suns" that were in the middle of the process of making this speedmap along the Conan Exiles nights.
+
 Special mention to my best friends Yuyi and Alunadrern for giving out the FOG and Sky color values. <3
 
 - bmFbr.
