@@ -1,4 +1,4 @@
-# Lavarium - rvj_chuma
+# Lavarium - sm230_chuma
 
 Map for Quake mod “Copper”, for sm230 progs. Speedmapping pack hosted by h4724
 
