@@ -43,6 +43,7 @@ Special mention to my best friends Yuyi and Alunadrern for giving out the FOG an
 - NiGHTS108.
 - grapes.
 - DuckReconMajor.
+- PyroGXPilot.
 - h4724.
 - Lavender
 - Alphaent
@@ -62,4 +63,5 @@ Special mention to my best friends Yuyi and Alunadrern for giving out the FOG an
 - Pacifist Paradise.
 - Map-Center.
 - NyxGirlpower’s community.
+- Skillmaster and my friends Ekate, Boris_sdk and Fellow.
 - All my personal friends who are always there for supporting me.
