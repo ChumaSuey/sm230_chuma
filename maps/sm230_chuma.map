@@ -8692,6 +8692,7 @@
 // entity 160
 {
 "classname" "func_detail_illusionary"
+"_minlight" "150"
 // brush 0
 {
 ( 448 -1440 -16 ) ( 448 -1439 -16 ) ( 448 -1440 -15 ) metal14_12 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 270 1 1
