@@ -39,6 +39,8 @@ Special mention to my best friends Yuyi and Alunadrern for giving out the FOG an
 - Em3raldTig3r.
 - Phoenyx.
 - NiGHTS108.
+- grapes.
+- DuckReconMajor.
 - h4724.
 - Lavender
 - Alphaent
