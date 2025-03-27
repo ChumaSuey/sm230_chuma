@@ -1,4 +1,4 @@
-# Lavarium - rvj_chuma
+# Lavarium - sm230_chuma
 
 Map for Quake mod “Copper”, for sm230 progs. Speedmapping pack hosted by h4724
 
@@ -27,9 +27,11 @@ The music was a bit more of a trivia : Debating myself due to time constraint wh
 
 ### Special thanks
 
-A special tribute mention to my friend Meowgi from the Doom Community for helping me for mapping into doom, leading Pacifist Paradise community and never stopped believing in me. 
+A special tribute mention to my friend Meowgi from the Doom Community for helping me for mapping into doom, leading Pacifist Paradise community and never stopped believing in me.  <3
 
-Special mention to Pacifist Paradise community for being a home to me in the internet.
+Special mention to Pacifist Paradise community for being a home to me in the internet. <3
+
+Special mention to my friends Gamerkevmo and Edymar and my group "The Midnight Suns" that were in the middle of the process of making this map along the Conan Exiles nights. <3
 
 Special mention to my best friends Yuyi and Alunadrern for giving out the FOG and Sky color values. <3
 
@@ -39,6 +41,9 @@ Special mention to my best friends Yuyi and Alunadrern for giving out the FOG an
 - Em3raldTig3r.
 - Phoenyx.
 - NiGHTS108.
+- grapes.
+- DuckReconMajor.
+- PyroGXPilot.
 - h4724.
 - Lavender
 - Alphaent
@@ -58,4 +63,5 @@ Special mention to my best friends Yuyi and Alunadrern for giving out the FOG an
 - Pacifist Paradise.
 - Map-Center.
 - NyxGirlpower’s community.
+- Skillmaster and my friends Ekate, Boris_sdk and Fellow.
 - All my personal friends who are always there for supporting me.
